@@ -1,6 +1,6 @@
 name: RDP_COFFIN
 
-on: workflow_dispatch
+on: workflow-dispatch
 
 jobs:
   build:
